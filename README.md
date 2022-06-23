@@ -1,4 +1,4 @@
-# Store-front-api
+
 # Storefront API
 Storefront API handles the backend logic and database integration of an online shopping store.
 
@@ -33,7 +33,7 @@ Environment variables are defined in a .env file.
 ## Installation
 The steps outline will provide a walkthrough on how to install the app on your local machine
 
-1. Clone this repository `git clone https://github.com/stephentk/Store-front-api`
+1. Clone this repository `git clone https://github.com/stephentk/Store-front-api.git
 2. From the terminal, change directory to storefront app folder `cd milestone-storefront`
 3. Run `npm install` from your terminal in your project directory to install all dependencies 
 4. Then run the app with the command `npm run watch`
