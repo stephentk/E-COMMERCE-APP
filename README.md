@@ -48,7 +48,7 @@ The endpoints available for tests can be found in the ***requirements.md*** file
 Contributions, issues and feature requests are welcome!
 
 ## Author
- stephen kofoworola
+STEPHEN KOFOWOROLA
 - Github: [https://github.com/stephentk)
 - LinkedIn: [https://www.linkedin.com/in/stephen-kofoworola-536483145/)
 
