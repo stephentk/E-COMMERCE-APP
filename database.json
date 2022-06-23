@@ -1,0 +1,17 @@
+{
+    "dev": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "warehouse",
+      "user": "storedata",
+      "password": "password"
+    },
+    "test": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "warehouse_test",
+      "user": "storedata",
+      "password": "password"
+    }
+  }
+  
