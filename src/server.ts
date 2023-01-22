@@ -17,4 +17,4 @@ app.listen(2000, () => {
   console.log("app started");
 });
 
-export default app
+export default app;
