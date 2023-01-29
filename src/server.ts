@@ -8,7 +8,7 @@ import order_routes from "./handler/orders";
 const app = express();
 
 app.use(cors());
-app.use(bodyParser.json());
+app.use(bodyParser.json())
 user_routes(app);
 product_routes(app);
 order_routes(app);
